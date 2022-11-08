@@ -41,8 +41,8 @@ I have developed many successful sites so far with mentioned skills.
 - 📫 Ask me about anything, I am happy to help
 
 **Connect with me:**
-- 💬 skype : live:.cid.299f9c6a70cd3f50
-- 📝 Email : web.developer828828@gmail.com
+- 💬 skype : live:.cid.54e2fd026b452aca
+- 📝 Email : daviddev0712@gmail.com
 
 
 
@@ -53,4 +53,4 @@ I have developed many successful sites so far with mentioned skills.
 </p>
 
 
-⭐️ From [web.developer828828](https://github.com/luckyman828)
+⭐️ From [daviddev0712](https://github.com/toptalent0721)
